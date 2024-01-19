@@ -1,0 +1,1 @@
+readme for more on malloc, free, exit, calloc and realloc in C.
