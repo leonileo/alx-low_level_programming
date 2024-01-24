@@ -12,7 +12,7 @@ int n = 0;
 int l = '\n';
 int c = ',';
 int s = ' ';
- 
+
 while (n < 10)
 {
 putchar(48 + n);
