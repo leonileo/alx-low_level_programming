@@ -10,8 +10,8 @@ int main(void)
 {
 int n = 0;
 int l = '\n';
-char c = ',';
-char s = ' ';
+int c = ',';
+int s = ' ';
  
 while (n < 10)
 {
