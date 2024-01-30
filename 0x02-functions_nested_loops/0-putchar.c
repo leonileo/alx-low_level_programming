@@ -6,6 +6,7 @@
  * Return: Always 0 success
 */
 
+
 int main(void)
 {
 const char s = '_';
