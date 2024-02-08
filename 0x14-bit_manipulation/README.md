@@ -1,0 +1,1 @@
+Projects regarding to bit manipulation
